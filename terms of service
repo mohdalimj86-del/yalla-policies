@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شروط الخدمة</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+            color: #555;
+        }
+        ul {
+            color: #555;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>شروط الخدمة</h1>
+        
+        <h2>القبول</h2>
+        <p>باستخدامك تطبيقنا، فإنك توافق على هذه الشروط والأحكام.</p>
+        
+        <h2>حساب المستخدم</h2>
+        <p>أنت مسؤول عن:</p>
+        <ul>
+            <li>الحفاظ على أمان حسابك</li>
+            <li>جميع الأنشطة التي تتم عبر حسابك</li>
+            <li>توفير معلومات دقيقة وصحيحة</li>
+        </ul>
+        
+        <h2>سلوك المستخدم</h2>
+        <p>يُمنع استخدام التطبيق في:</p>
+        <ul>
+            <li>أنشطة غير قانونية</li>
+            <li>انتحال شخصية الآخرين</li>
+            <li>إرسال محتوى ضار</li>
+        </ul>
+        
+        <h2>تعديل الشروط</h2>
+        <p>نحتفظ بالحق في تعديل هذه الشروط في أي وقت، وسنخطرك بالتغييرات.</p>
+        
+        <h2>إنهاء الخدمة</h2>
+        <p>يمكننا تعليق أو إنهاء حسابك إذا انتهكت هذه الشروط.</p>
+        
+        <h2>اتصل بنا</h2>
+        <p>للاستفسارات: mohdali.mj86@gmail.com</p>
+        
+        <p>آخر تحديث: ديسمبر 2024</p>
+    </div>
+</body>
+</html>
